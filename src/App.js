@@ -1,12 +1,13 @@
 import Footer from './components/Footer';
 import Header from './components/Header';
-import Note from './components/Note';
+import Notes from './components/Notes';
+
 
 function App() {
     return (
         <div>
             <Header />
-            <Note />
+            <Notes />
             <Footer />
         </div>
     );
